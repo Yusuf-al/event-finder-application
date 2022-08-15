@@ -1,0 +1,103 @@
+{
+  "events": [
+    {
+      "title": "Shadinota Concert",
+      "description": "Hey, here at Linguine Code, we want to teach you everything we know about React. Our only question is, are you in?",
+      "eventDate": "2022-08-31",
+      "address": "Bangladesh Army Stadium,Banani-1220\nDhaka Bangladesh",
+      "event_Start": "7 pm",
+      "event_End": "10 pm",
+      "contact_email": "bdarmy@bdg.com",
+      "contact_phone": "01789546325",
+      "event_organizer": "Bangladesh Army",
+      "id": 1
+    },
+    {
+      "title": "Programming Hero Coding Contest",
+      "description": "It was an amazing journey. It was a life-changing course for me. ",
+      "eventDate": "2022-08-31",
+      "address": " Level-4, 34, Awal Centre, Banani, Dhaka",
+      "event_Start": "10 am",
+      "event_End": "5 pm",
+      "contact_email": "web@programming-hero.com",
+      "contact_phone": "1322810872",
+      "event_organizer": "Programming Hero community",
+      "id": 2
+    },
+    {
+      "title": "Understanding Cryptocurrency & why does it matters",
+      "description": "History of money has changed over time through trading from an animal like a cow to sheep.",
+      "eventDate": "2022-10-30",
+      "address": "Dhaka, D 1205",
+      "event_Start": "10 am",
+      "event_End": "5 pm",
+      "contact_email": "naiem.n123@gmail.com",
+      "contact_phone": "3123424231434",
+      "event_organizer": "Pixel 2 NFT",
+      "id": 3
+    },
+    {
+      "title": "The Job Search Accelerator Masterclass",
+      "description": "Get Up To 17 Interviews In As Little As 3 Weeks By Making A Few Small Tweaks To Your Job Search (Even If You've Tried Everything And Still Haven't Been Able To Get A Job)",
+      "eventDate": "2022-08-20",
+      "address": "Mirpur Dhaka, Bangladesh 1205",
+      "event_Start": "10 am",
+      "event_End": "5 pm",
+      "contact_email": "naiem.n123@gmail.com",
+      "contact_phone": "4123123123123",
+      "event_organizer": "Ash Goel, Insider Job Hunting,",
+      "id": 4
+    },
+    {
+      "title": "Shadinota Concert",
+      "description": "sdfdsfdsfsfsdfds",
+      "eventDate": "2022-08-27",
+      "address": "sdfafsdfsaf",
+      "event_Start": "7 pm",
+      "event_End": "5 pm",
+      "contact_email": "naiem.n123@gmail.com",
+      "contact_phone": "23121313",
+      "event_organizer": "Bangladesh Army",
+      "id": 5
+    },
+    {
+      "title": "LPU Convocation",
+      "description": "Programming Hero has helped me in many ways to develop my career. They taught me how to work professionally in the programming sector. How to learn and achieve by working hard.",
+      "eventDate": "2022-09-16",
+      "address": "Shanti Devi Mittal Open Auditorium\nLPU, Phagwara, Punjab",
+      "event_Start": "9 am",
+      "event_End": "5 pm",
+      "contact_email": "lpualmuni@lpu.in",
+      "contact_phone": "4231231451",
+      "event_organizer": "Lovely Professional University",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Josie",
+      "email": "jpawling0@accuweather.com"
+    },
+    {
+      "id": 2,
+      "name": "Eva",
+      "email": "ehawtry1@feedburner.com"
+    },
+    {
+      "id": 3,
+      "name": "Abdul",
+      "email": "aprestney2@bloglines.com"
+    },
+    {
+      "id": 4,
+      "name": "Auberon",
+      "email": "adiffley3@cloudflare.com"
+    },
+    {
+      "id": 5,
+      "name": "Abigael",
+      "email": "apashen4@nationalgeographic.com"
+    }
+  ]
+}
