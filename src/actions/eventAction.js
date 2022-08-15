@@ -13,7 +13,7 @@ export const getEvents = () => async (dispatch) => {
     dispatch({
       type: SET_LOADING,
     });
-    const res = await axios.get("http://localhost:5000/events");
+    const res = await axios.get("https://eventfinderproject.herokuapp.com/");
     dispatch({
       type: GET_EVENTS,
       payload: res.data,
@@ -31,7 +31,7 @@ export const addEvent = (eventData) => async (dispatch) => {
     dispatch({
       type: SET_LOADING,
     });
-    const res = await axios.post("http://localhost:5000/events", {
+    const res = await axios.post("https://eventfinderproject.herokuapp.com/", {
       title: eventData.title,
       description: eventData.desc,
       eventDate: eventData.date,
@@ -59,7 +59,9 @@ export const searchEvents = (text) => async (dispatch) => {
   try {
     setLoading();
 
-    const res = await axios.get(`http://localhost:5000/events?q=${text}`);
+    const res = await axios.get(
+      `https://eventfinderproject.herokuapp.com/?q=${text}`
+    );
     dispatch({
       type: SEARCH_EVENTS,
       payload: res.data,

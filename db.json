@@ -71,6 +71,18 @@
       "contact_phone": "4231231451",
       "event_organizer": "Lovely Professional University",
       "id": 6
+    },
+    {
+      "title": "Kety Perry Concert",
+      "description": " Katy Perry, is an American singer, songwriter, and television personality. She is known for her influence on the pop sound and style of the 2010s.",
+      "eventDate": "2022-08-27",
+      "address": "Newyork Stadium",
+      "event_Start": "5 pm",
+      "event_End": "9 pm",
+      "contact_email": "foxent@foxcor.com",
+      "contact_phone": "093841751141",
+      "event_organizer": "Fox Entertainment",
+      "id": 7
     }
   ],
   "users": [

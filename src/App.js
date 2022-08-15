@@ -10,6 +10,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/add-event" element={<EventForm />} />
+        <Route path="/*" element={<p>Page not Found</p>}></Route>
       </Routes>
       <ToastContainer />
     </div>
