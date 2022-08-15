@@ -35,7 +35,6 @@ const Card = ({ item }) => {
                 <span className="widget-40-date-day date-day">
                   {monthDate[0].substring(0, 3)} <br /> {monthDate[1]}
                 </span>
-                {/* <span className="widget-49-date-month">apr</span> */}
               </div>
               <div className="widget-49-meeting-info">
                 <span className="widget-49-pro-title">{description}</span>
@@ -55,11 +54,6 @@ const Card = ({ item }) => {
               <p>
                 Organizer: <b>{event_organizer}</b>
               </p>
-            </div>
-            <div className="widget-49-meeting-action">
-              <a href="#" className="btn btn-sm btn-flash-border-primary">
-                View All
-              </a>
             </div>
           </div>
         </div>

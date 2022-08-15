@@ -84,32 +84,5 @@
       "event_organizer": "Fox Entertainment",
       "id": 7
     }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Josie",
-      "email": "jpawling0@accuweather.com"
-    },
-    {
-      "id": 2,
-      "name": "Eva",
-      "email": "ehawtry1@feedburner.com"
-    },
-    {
-      "id": 3,
-      "name": "Abdul",
-      "email": "aprestney2@bloglines.com"
-    },
-    {
-      "id": 4,
-      "name": "Auberon",
-      "email": "adiffley3@cloudflare.com"
-    },
-    {
-      "id": 5,
-      "name": "Abigael",
-      "email": "apashen4@nationalgeographic.com"
-    }
   ]
 }
